@@ -1,0 +1,11 @@
+git download
+
+touch file name
+
+git add .
+
+git commit -m "label name"
+
+git status
+
+git log
